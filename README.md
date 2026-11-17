@@ -43,7 +43,7 @@ minigpt-tinystories/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/minigpt-tinystories.git
+git clone https://github.com/Shirishaaa08/minigpt-tinystories.git
 cd minigpt-tinystories
 ```
 
